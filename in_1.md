@@ -2969,7 +2969,15 @@ while the quality of the products is the core part of the whole business
 上传图床遇到如此愚蠢的问题该怎么办
 
 now we finish the conflict but a question about whether it will check out the problem when we have an empty conflict 
+<<<<<<< HEAD
 
  another conflict
 
 123321
+=======
+
+ another conflict
+
+344542
+
+>>>>>>> baffc67f2eff3fe20433264fba05922e9ee1316d
