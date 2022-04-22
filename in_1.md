@@ -2981,3 +2981,5 @@ now we finish the conflict but a question about whether it will check out the pr
 344542
 
 >>>>>>> baffc67f2eff3fe20433264fba05922e9ee1316d
+
+![image-20220422172701620](https://raw.githubusercontent.com/RNCHEN/photo-326/master/blogImg/image-20220422172701620.png)
