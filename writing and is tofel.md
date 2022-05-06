@@ -8,7 +8,7 @@ categories:
 
 this article is about how to manage subjective part in Tofel, which means
 
- - integratea abc writing
+ - integratea abc writin1233321
 
  - independent writing
 
